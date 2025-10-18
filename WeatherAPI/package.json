@@ -1,0 +1,11 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Get the weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "weather "
+  },
+  "author": "JRM",
+  "license": "ISC"
+}

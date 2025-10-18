@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px 0;
+    font-weight: bold;
+    font-family: "Goudy Old Style";
+    background-color:antiquewhite;
+}
+
+h2 {
+    color: black;
+}
+
+.refreshbutton {
+    text-align: center;
+    height: 100px;
+}
